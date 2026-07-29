@@ -7,9 +7,9 @@ const config: Config = {
       colors: {
         brand: {
           bg: "#0A0A0A",
-          neon: "#FF3B3B",
-          neonDeep: "#B71818",
-          neonSoft: "#FF7676",
+          neon: "#22FF88",
+          neonDeep: "#0EA968",
+          neonSoft: "#7DFFA9",
           card: "#141414",
           border: "#2A2A2A"
         }
@@ -19,7 +19,7 @@ const config: Config = {
         display: ["'Anton'", "Impact", "sans-serif"]
       },
       boxShadow: {
-        cta: "0 0 0 1px rgba(255,59,59,0.5), 0 0 40px -8px rgba(255,59,59,0.75)"
+        cta: "0 0 0 1px rgba(34,255,136,0.5), 0 0 40px -8px rgba(34,255,136,0.75)"
       }
     }
   },

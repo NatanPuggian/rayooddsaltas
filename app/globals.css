@@ -38,13 +38,13 @@ body {
   );
 }
 
-/* CTA glow vermelho */
+/* CTA glow verde */
 @keyframes pulseCta {
   0%, 100% {
-    box-shadow: 0 0 0 1px rgba(255, 59, 59, 0.5), 0 0 32px -8px rgba(255, 59, 59, 0.55);
+    box-shadow: 0 0 0 1px rgba(34, 255, 136, 0.5), 0 0 32px -8px rgba(34, 255, 136, 0.55);
   }
   50% {
-    box-shadow: 0 0 0 1px rgba(255, 59, 59, 0.8), 0 0 55px -6px rgba(255, 59, 59, 0.9);
+    box-shadow: 0 0 0 1px rgba(34, 255, 136, 0.8), 0 0 55px -6px rgba(34, 255, 136, 0.9);
   }
 }
 

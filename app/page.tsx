@@ -1,6 +1,5 @@
 export default function Page() {
-  // TODO: trocar pelo link real do bot/grupo do Rayo quando o Natan mandar
-  const grupoLink = "https://t.me/+PLACEHOLDER";
+  const grupoLink = "https://t.me/ogoldorayobot?start=6a6a5576fa8c73afaa03ef75";
 
   return (
     <main className="min-h-screen w-full flex flex-col hero-bg">
@@ -17,7 +16,7 @@ export default function Page() {
             <span className="block text-5xl sm:text-6xl md:text-7xl text-white drop-shadow-[0_2px_8px_rgba(0,0,0,0.8)]">
               Acesso
             </span>
-            <span className="block text-6xl sm:text-7xl md:text-8xl text-brand-neon drop-shadow-[0_2px_20px_rgba(255,59,59,0.5)]">
+            <span className="block text-6xl sm:text-7xl md:text-8xl text-brand-neon drop-shadow-[0_2px_20px_rgba(34,255,136,0.5)]">
               Liberado
             </span>
           </h1>
